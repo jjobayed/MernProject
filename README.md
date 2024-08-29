@@ -1,1 +1,1 @@
-Its a web app using MERN
+A Blog App With Dashboard Using MERN (jwt, redux toolkit)
